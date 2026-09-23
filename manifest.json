@@ -1,0 +1,25 @@
+{
+  "name": "Mostre — Triveneto & Emilia-Romagna",
+  "short_name": "Mostre",
+  "description": "Mostre d'arte e fotografia in corso e in arrivo in Triveneto ed Emilia-Romagna.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#141412",
+  "theme_color": "#141412",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
